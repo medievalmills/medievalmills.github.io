@@ -3,7 +3,6 @@ email: e.mills4@exeter.ac.uk
 description: >-
   Medieval; musical; bit weird, apparently.
 url: "https://medievalmills.github.io/"
-baseurl: "/site"
 github_username: medievalmills
 
 # Build settings
