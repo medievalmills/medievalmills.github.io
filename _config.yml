@@ -6,11 +6,12 @@ url: "https://medievalmills.github.io/"
 github_username: medievalmills
 
 social_links:
-- title: GitHub
-icon: fa-github
+- title: Minima Theme repository at GitHub
+icon: github
 url: "https://github.com/medievalmills"
+
 - title: LinkedIn
-icon: fa-linkedin-square
+icon: linkedin-square
 url: "https://www.linkedin.com/in/edward-mills-70151b109"
 
 
