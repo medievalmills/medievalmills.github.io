@@ -3,10 +3,12 @@ email: e.mills4@exeter.ac.uk
 description: >-
   Medieval; musical; mostly meandering.
 url: "https://medievalmills.github.io/"
-github_username: medievalmills
 
 # Build settings
 theme: minima
+social_links:
+    - { platform: github,  user_url: "https://github.com/medievalmills" }
+    - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
 plugins:
   - jekyll-feed
 
