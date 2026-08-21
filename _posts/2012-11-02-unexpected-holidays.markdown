@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Unexpected holidays"
+date:   2012-11-02 00:00:00 +0000
+tags: "year abroad"
+---
+> *This post was originally published on [Reims and Repeat](https://reimsandrepeat.blogspot.com/2012/11/unanticipated-holidays.html), a blog that I ran during my Year Abroad.*
+
+I have a defence for not posting much over the last week: specifically, that things have been fairly quiet here in Reims. Although I have garnered the distinction of being the only person in the history of the world, ever, not to be looking forward to the end of term.
+
+French assistants start work comparatively late in the school year, especially when compared to those in Spain (I wasn't officially contracted by the Education Ministry until October). This, coupled with the holidays for *la Toussaint* (All Saints' Day) being two weeks long for the first time in ages, means that I'd barely taught for three weeks before having a fortnight's holiday. And it hasn't always been easy: I love my job, and a good part of that is because it quite simply gives me something really fun and constructive to do. All of a sudden, I was facing a week with very little set up, before hopefully heading back home for a day or two towards the end of the holidays.
+
+So what have I been doing? Rowing, of course.
+
+For the last few sessions, I've been on the bank, coaching from a bike. I'd seen this done quite a lot before, so I was aware of the basic rules of coaching, but I'd never actually done it before - let alone in another language. Thankfully, it transpired that French rowers make many of the same mistakes that English ones do. When we were preparing for our Years Abroad, we were told that immersing yourself in the language and culture was a very effective method of learning, but I don't think that I'd ever have expected to be shouting across a canal things like: *'Faites le changement - ralentissez la coulisse pendant la phase de retour sur celui-là!'* or *'Donnez-moi une dizaine de coups, avec l'accent sur arriver ensemble à la prise de l'eau!'*. To each his own, I guess.
+
+Although you wouldn't know it from the way I write on this blog, I have been doing other things apart from rowing. Most notably, I've been getting acquainted with the municipal library system. (Because indeed, the club just can't handle me right now.) I've been spending quite a bit of time inside the old *Bibliothèque Carnegie*, which these days is little more than a reading room and storage space for some of the old or little-used resources.[^1] Thankfully, that was also where they kept a particularly obscure book on Alexander romances, for which I really did not want to pay £80. Instead, most of the resources are kept in the Médiathèque Falala, a much more modern building reopened in 2007. The médiathèque is absolutely brilliant: there's free wi-fi, a great selection of books, a whole section on medieval French, and - very importantly when the staff room photocopiers are shut down for the holidays - a printing room. So now there's no excuse for me not sending that letter to the MGEN. In fact, about the only drawback there is to the place is that its name makes me think of *'Tis the Season To Be Jolly*.
+
+Speaking of Christmas, I've heard the first seasonal tune being played in a public place: the award goes to A casa mia, a pizzeria in the middle of town. I commented on this to the waiter there, who laughed and nodded. This is either his way of saying 'I think you're incredibly funny, witty and observant', or alternatively a subtle signal to the other waiters that 'there's a weird Englishman over here who's trying to make small talk, and I need extraction, ASAP'. I can't be certain which one it is, but I know full well which one I'd prefer it to be.
+
+Oh, and ... I went to Épernay the other day! Épernay is a small town about half an hour away by train, located on the other side of a dark and extremely expensive forest. The lovely assistants there - shout out to Josh and Diego! - welcomed me and Alessia for the day, and we strolled around, marvelling at the number of champagne houses, the quietness of the streets, and the fact that you were legally allowed to mess about in the playground until you were seventeen years old. Not that this stopped the other (twenty-something) assistants from having a go anyway. A few days later, one of the assistants, Josh, popped round with some friends of his and we met up for a coffee in a brasserie. Well, I say 'coffee' - it was more like an excuse to eat loads of free mini-pretzels. (Although the coffee wasn't bad.) Thanks again to all the Épernay assistants (Éper-sistants?) for putting up with me for a day!
+
+I'm also starting to get through some lesson topic suggestions from the other teachers, to be used once the holidays are over. One of them is for 'Robin Hood', and I have to be honest - I'm struggling a bit.
+
+[^1]: Revisiting this post as a medievalist, I can't leave this egregious inaccuracy uncorrected. The Bibliothèque Carnégie is, of course, a repository for manuscripts of immense value!

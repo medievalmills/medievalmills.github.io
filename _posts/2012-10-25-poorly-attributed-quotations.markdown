@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Poorly-attributed questions"
+date:   2012-10-25 00:00:00 +0000
+tags: "year abroad"
+---
+> *This post was originally published on [Reims and Repeat](https://reimsandrepeat.blogspot.com/2012/10/poorly-attributed-quotations.html), a blog that I ran during my Year Abroad.*
+
+Earlier today, a quote that I hadn't thought of in quite a while crossed my mind. Unfortunately, I couldn't remember it precisely, so a fair bit of Google searching was required; then, of course, came the inevitable challenge of sourcing it. In the end, I had to give up, and so I fear that the quote might be, at best, taken badly out of context (or even entirely fictitious):
+
+> The only real wisdom is knowing you know nothing. (Attributed to Socrates)
+
+Real or not, and regardless of whether or not I agree with it, the quote does make an interesting point. It's been almost a month since I arrived in Reims, and it now feels as if I've got through the initial barrier of setting myself up in a new town. Instead, in the last couple of days I've found myself becoming more and more self-conscious about my language skills: my accent, my vocabulary ... It's almost like moving up a level in a computer game, when you suddenly become much more conscious of how far you have to go, rather than how far you've come. Coxing in French is a good example of this: even if I'm capable of giving relatively clear instructions to a group of rowers, it's still very easy for me to fixate on how my r's are a bit too sharp, or how I occasionally mix up dipthongs. A lot of this will come with time, of course, and so, frustrating as the initial experience can be, I hope I get the chance to 'level up' again on multiple occasions this year.
+
+Of course, in amongst all the existential ramblings there is the small matter of my job, which I'm very much enjoying. Last week, I had one of the most amazing lessons I've taken here, in which some secondes and I came up with the vocabulary list to end all vocabulary lists on the American elections. I've also had the chance to listen to that same class's presentations about the elections, which was an enlightening experience, and to go to a conference with them entitled *La course à la Maison-Blanche*. The *académie* is planning to put the event online in video form, so I'll link to it when it's available. With the premières, the theme for the week was 'superheroes'; this worried me at first, since I know almost nothing about them, but one comic strip with the text scrubbed out later, and we had ourselves an activity! The students' task was to write their own comic strip storyline using the now-blank speech bubbles, and the responses were ... interesting. Seriously, it was like *calque* city out there, what with all the literal translations from French going on. Still, at least it gave me the chance to correct them ...

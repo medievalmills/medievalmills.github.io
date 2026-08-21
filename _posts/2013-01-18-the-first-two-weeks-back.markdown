@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "The first two weeks back"
+date:   2013-01-18 00:00:00 +0000
+tags: "year abroad"
+---
+> *This post was originally published on [Reims and Repeat](https://reimsandrepeat.blogspot.com/2013/01/the-first-two-weeks-back.html), a blog that I ran during my Year Abroad.*
+
+As *Harry Potter and the Goblet of Fire* put it, Christmas holidays always seem much longer before 25th December than they do afterwards. This year, it didn't help that I only had two days at home before Christmas; and so it came to pass that, after what felt like the shortest holidays ever, I was back at London St. Pancras, helping out old Belgian ladies with their bags and waiting for the Eurostar.
+
+The shortness of the Christmas break didn't stop me enjoying it: being back in the UK for more than a couple of days was, after all, a very pleasant experience. It was good to see friends, to spend time with my family, and to see in 2013 by playing Scrabble. While back at home, it was also good to be able to play the full-sized guitar for a change. I mean, don't get me wrong - I love my travel guitar, and will possibly be using it in a performance one day soon, but I do miss the bass response on the full-sized version.
+
+Once safely ensconced at the lycée, lessons began again with an almost-alarming speed. Fortunately, I still had a couple of lessons left over from last term to finish, so for a few of my classes there was next to nothing to prepare. Before too long, though, I was again sending out those interminable emails to teachers asking what they wanted me to work on. By and large, my new lessons have worked rather well, particularly the one about emigration to America which consisted of analysing the Pogues' seminal 1988 classic *[Thousands are Sailing](https://youtu.be/27iJsZpQn3A)*. It's not all been plain sailing, though (get it?): the lowlight of the term so far has been a lesson which took an absolute age to prepare, including recording an interview with two Australian exchange students; a lesson which, it transpired, did not get a good reception. Still, you live and you learn, and I'm definitely going to think a bit more about different groups before starting my lesson plans.
+
+One other lesson merits mention. To get my premières students back into the swing of things after the Christmas break, I gave them a semi-creative writing task that involved deciding who to put on the back of a new £10 note. The idea was to encourage them to think about British heroes, since one of the units on their curriculum is called "mythes et héros", and to justify their hero status by explaining why they should appear on currency. Two groups came up with reasonable suggestions - Churchill and Shakespeare; another group settled on Molière (decidedly not British, but okay). The other group was a little more ... interesting. I shot down their first idea, [Woody the Woodpecker](https://youtu.be/3caNrHJ7q1g), by pointing out that fictional characters don't usually make it onto banknotes. Ten minutes later, when I came back to check on how they were doing, they'd made their decision.
+
+To be fair to them, they produced the best writing in the whole class. Unfortunately, I don't think the Queen would be very pleased to find herself on the same banknote as Tupac.
+
+But it's not all been classroom antics here in Reims: other, arguably more exciting things, have been happening here too. Particularly worthy of a mention here is a visit I recently made to Paris, in order to meet up with a good friend and to see the [King's Singers](https://www.kingssingers.com) in concert. He describes it better than me, so please do [read his blog](https://unveritableocean.blogspot.com/2013/01/quelle-merveille-les-kings-singers.html) to learn more about a wonderful evening. I've also been trying to see a bit more of the other assistants this term, which has led to a couple of wonderful (and cheap!) dinners. Who would have known that enchiladas were so delicious? Or that I could make such a mess of pumpkin pie?
+
+Tune in next time on *Reims and Repeat*, where I'll be dissecting the French school system ...
