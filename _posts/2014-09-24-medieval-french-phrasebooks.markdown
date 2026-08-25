@@ -31,7 +31,7 @@ I find it fascinating to think that all of the things we think of as ‘modern�
 
 *Edward Mills is a postgraduate student in medieval French literature at Wolfson College. Thanks very much to Daron Burrows for proof-reading prior to publication.*
 
-<small>[^1]: ‘Triglossia’ refers to a situation wherein three languages are spoken in a given space. See also ‘diglossia’, the phenomenon of two languages being spoken in a given space, and Polyglossia, the University of Cambridge’s student-run modern languages journal (which I definitely wasn’t involved with. Nope. Never.)
+[^1]: ‘Triglossia’ refers to a situation wherein three languages are spoken in a given space. See also ‘diglossia’, the phenomenon of two languages being spoken in a given space, and Polyglossia, the University of Cambridge’s student-run modern languages journal (which I definitely wasn’t involved with. Nope. Never.)
 [^2]:" *Manière de langage*, p. 382. “Here begins the *Manière de langage* which will teach you the proper speech and writing of sweet French as it is used in France.”
 [^3]: *Tretiz*, l. 7.
 [^4]: *Tretiz*, l. 98.
@@ -39,4 +39,4 @@ I find it fascinating to think that all of the things we think of as ‘modern�
 [^6]: *Liber Donati*, p. 20. “Innkeeper, inkeeper. / Sir, here I am. / Can you house us here? / Certainly, sirs … how many are you?” 
 [^7]: *Manière*, pp. 394-95. “And then the sire continues on his way, and when he finds himself half an hour away from the town, he asks the man whom he meets, thusly: ‘Friend,’ or ‘Good sir’, or ‘Good man, what time is it now?’, or ‘How many times has the clock sounded?'”
 [^8]: *Tretiz*, ll. 21-28. “And when [a child] reaches such an age / That he may apply himself to languages, / You should first tell him in French / How to describe his body / By proper order of ‘mon’ and ‘ma’, / ‘Ton’ and ‘ta’, ‘son’ and ‘sa’, ‘le’ and ‘la’; / So that he be better educated in speech / And not be mocked by others.”
-[^9]: *Liber Donati*, p. 11.</small>
+[^9]: *Liber Donati*, p. 11.
