@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Medieval French phrasebooks: Encore Tricolore, circa 1400
+title:  "Medieval French phrasebooks: Encore Tricolore, circa 1400"
 date:   2014-09-24 00:00:00 +0000
 ---
 > *This post was originally published on [Adventures on the Bookshelf](https://bookshelf.mml.ox.ac.uk/2014/09/24/medieval-french-phrasebooks-encore-tricolore-circa-1400/), an outreach blog run by tutors in French at Oxford University..*
