@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "'Learning French in Medieval England': the encoding begins"
+date:   2020-10-06 00:00:00 +0000
+categories: 
+---
+> *This post was originally published on the [Exeter Medieval Studies blog](https://sites.exeter.ac.uk/medievalstudies/2020/10/06/learning-french-in-medieval-england-the-encoding-begins/).*
+
+Five months on from our previous post, work has been proceeding apace at the ‘Learning French in Medieval England’ project — or, as literally no-one is calling it, ‘Tretiz Towers’. Our primary focus at the moment remains the work that we’re doing on the project’s central strand: namely, producing a digital edition of the Tretiz‘s 17 extant manuscripts. The days of Word documents, however, are thankfully behind us: thanks to the sterling work of Dr. Charlotte Tupman, the project’s TEI consultant, we’re now getting to grips with XML encoding, and ‘marking up’ our earlier transcriptions into a machine-readable format that will be both dynamic and easily-searchable. As we’ve become more familiar with the ins and outs of XML, we’ve been asked on several occasions to clarify how exactly this strange new language works, and to that end, we’ve produced a brief introduction to XML, with particular reference to our project, over on the Modern Languages and Cultures blog. Encoding is certainly a rewarding experience, and one that forces us to think critically about our editing philosophies and methodologies; when making text machine-readable, everything has to be justified, and sidestepping difficult questions simply isn’t an option. The real reward, though, will be seeing the edition in its finished form, and making the first of the many discoveries that we anticipate it to enable.
+
+![IMAGE](assets/images/blogposts/2020-10-06-lfime-encoding-begins/2-tei.png)
+
+The project’s outreach and communication arm has also stepped up a gear over the past few months, with both Tom and I speaking at multiple events to academic audiences and the broader public. I kicked things off in May with a presentation at Academics in Quarantine, an online conference series, while Tom, fresh from an appearance on BBC Radio Devon, gave a fascinating talk on French in Medieval England as part of a round of public engagement events organised by the team at Agile Rabbit (available to watch online). More recently, Tom has also presented at the online Medieval French Seminar series organized by academics in the UK, where he explored questions of Latinity in the Tretiz, investigating links between Bibbesworth and Latin word-books and nominalia. We’ve also produced guest posts for various other outlets, with Tom investigating two British Library manuscripts of the text over on the Values of French project blog and Edward producing the introduction to XML mentioned at the start of this post. The project’s Twitter account (@MedievalFrench) remains a hive of activity, with regular #TretizTuesday posts (highlighting intriguing or unusual aspects of the text) pushing us towards a respectable 350 followers.
+
+![IMAGE](assets/images/blogposts/2020-10-06-lfime-encoding-begins/1-agilerabbit.png)
+
+The coming months will be crucial to the project’s success, as we look towards completion of our encoding and the subsequent investigation of broader questions that underpin the Tretiz‘s composition and reception. We hope you’ll join us for the journey, whether on our Twitter page or on our project website, and look forward to bringing you another update soon.
