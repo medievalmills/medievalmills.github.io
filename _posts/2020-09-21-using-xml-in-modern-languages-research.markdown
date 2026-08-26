@@ -20,7 +20,7 @@ You’d be forgiven for thinking that this looks as much like gibberish as a par
 
 So, what does each bit of this language tell the computer? Let’s indulge in a spot of XML grammar …
 
-![IMAGE](/assets/images/blogposts/2020-09-21-using-xml-in-modern-languages-research/2-line.png_)
+![IMAGE](/assets/images/blogposts/2020-09-21-using-xml-in-modern-languages-research/2-line.png)
 
 **Line numbers.** The first and last parts of each line do what it says on the tin: namely, telling the computer that everything within them is a line. Just as natural languages have parts of speech, XML is built around ‘tags’, and everything is enclosed within tags – here, the ```<l>``` and ```</l>``` tags enclose a single line of text. The ```n ="5"``` attribute, meanwhile, simply indicates that this is line 5 in our text.
 
