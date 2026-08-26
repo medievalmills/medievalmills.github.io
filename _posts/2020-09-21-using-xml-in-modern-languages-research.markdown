@@ -14,29 +14,29 @@ As we edit the *Tretiz*, we're writing a form of code known as **XML**: e**X**te
 
 Exactly how this would look in a print edition would depend on a whole set of transcription norms, but no-one would be too surprised to see something like this: *L'enfaunt comence chatouner* ('The child begins to crawl'). Now let's take a look at that same line in our XML file:
 
-![IMAGE](assets/images/blogposts/2020-09-21-using-xml-in-modern-languages-research/1-base.png)
+![IMAGE](/assets/images/blogposts/2020-09-21-using-xml-in-modern-languages-research/1-base.png)
 
 You’d be forgiven for thinking that this looks as much like gibberish as a paragraph of text in French might to a non-French-speaker, and to an extent, you’d be right. XML may not be a ‘natural’ language in the same way as French or German, but like any language, it has its own grammar and rules, and these need to be followed in order to make the text comprehensible to its audience. The audience here, of course, is not human, but rather a computer; nevertheless, the need for grammatical accuracy – or, rather, ‘validity’ and ‘well-formedness’ – remains.
 
 So, what does each bit of this language tell the computer? Let’s indulge in a spot of XML grammar …
 
-![IMAGE](assets/images/blogposts/2020-09-21-using-xml-in-modern-languages-research/2-line.png_)
+![IMAGE](/assets/images/blogposts/2020-09-21-using-xml-in-modern-languages-research/2-line.png_)
 
 **Line numbers.** The first and last parts of each line do what it says on the tin: namely, telling the computer that everything within them is a line. Just as natural languages have parts of speech, XML is built around ‘tags’, and everything is enclosed within tags – here, the ```<l>``` and ```</l>``` tags enclose a single line of text. The ```n ="5"``` attribute, meanwhile, simply indicates that this is line 5 in our text.
 
-![IMAGE](assets/images/blogposts/2020-09-21-using-xml-in-modern-languages-research/3-choice.png)
+![IMAGE](/assets/images/blogposts/2020-09-21-using-xml-in-modern-languages-research/3-choice.png)
 
 **Choices galore!** Here we have what's known as a 'choice' tag, one of the major benefits of a digital edition. It allows us to do something that print editions can't do: specifically, encode two different versions of a text, which the reader will be able to switch between in the digital edition itself. While modern French punctuation requires the apostrophe to indicate elision in the noun phrase *L’enfant* (*le + enfant*), this wasn’t the case in medieval French script, and so the manuscript simply has Lenfaunt. The ```<choice>``` tag (within which we have further tags ```<orig>``` for ‘original’ and ```<reg>``` for ‘regularised’) saves us having to choose between fidelity to the manuscript and ease of reading: instead, we simply offer both, and let the reader choose what they want to see.
 
-![IMAGE](assets/images/blogposts/2020-09-21-using-xml-in-modern-languages-research/4-comence.png)
+![IMAGE](/assets/images/blogposts/2020-09-21-using-xml-in-modern-languages-research/4-comence.png)
 
 **Abbreviations.** This is perhaps the simplest part of the entire line, as the only tag is ‘abbreviation marker’ (```<am>```). This tag reflects the common practice in manuscripts of using a suite of abbreviations, including this one, known as the macron. In the ‘diplomatic’ version of our edition, the ‘n’ will be in italics; in the modernised version, it will simply appear normally. 
 
-![IMAGE](assets/images/blogposts/2020-09-21-using-xml-in-modern-languages-research/5-chatouner.png)
+![IMAGE](/assets/images/blogposts/2020-09-21-using-xml-in-modern-languages-research/5-chatouner.png)
 
 **Text and gloss (1).** One of the features that makes the *Tretiz* so exciting to edit is its frequent glossing of terms into Middle English. In our edition, we’re keen to highlight these glosses, so we’ve gone to the trouble of marking up any text that’s the subject of a gloss with a ```<term>``` tag, as well as giving it a unique XML-id. Here, it’s ```Y``` (the siglum or identifying letter for the manuscript), ```chatouner``` (the word), and ```001``` (its numbered occurrence in the text).
 
-![IMAGE](assets/images/blogposts/2020-09-21-using-xml-in-modern-languages-research/6-gloss.png)
+![IMAGE](/assets/images/blogposts/2020-09-21-using-xml-in-modern-languages-research/6-gloss.png)
 
 **Text and gloss (2).** The gloss to *chatouner*, 'for to creope' (to crawl), is the longest element in the line, but for good reason. We’re encoding plenty of information, which users of the digital edition will be able to interrogate: the language (Middle English), the place (at the end of the line, rather than above the French), and the precise term to which it refers.
 
