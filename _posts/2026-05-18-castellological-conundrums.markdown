@@ -1,4 +1,4 @@
-	---
+---
 layout: post
 title:  "Castellological conundrums: Sherborne 'Old' Castle'"
 date:   2026-05-18 00:00:00 +0000
