@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Mermaids and manuscripts: a research postcard from Milan, Italy"
+date:   2026-02-09 00:00:00 +0000
+categories: 
+---
+
+> *This post was originally published on the [Exeter Medieval Studies blog](https://sites.exeter.ac.uk/medievalstudies/2026/02/09/mermaids-and-manuscripts-a-research-postcard-from-milan-italy/).*
+
+Medieval studies conferences come in many different flavours. Some are of the big, ‘whole-field’ type, of which the best-known example is probably the International Medieval Congress (about which Levi Roach has written [on this very blog](https://sites.exeter.ac.uk/medievalstudies/2025/06/02/top-tips-for-conference-season/)). Then there are the ‘thematic’ conferences — often PGR- or ECR-specific events — which base their call for papers around a relatively broad theme (within or outside of medieval studies) and are just as much about meeting other researchers at your career stage as they are about exchanging ideas. A couple of weeks ago, however, I found myself sitting in a conference room at the Università degli studi da Milano for a conference that didn’t fit neatly into either of these boxes.
+
+This story really begins a year or so ago, when Tom Hinton and I received an email from [Luca Sacchi](https://www.unimi.it/en/ugov/person/luca-sacchi), Professor of Romance Philology at the University of Milan. As work on the ‘Learning Anglo-French’ (LAF) project has continued, we’ve increasingly found ourselves working on the challenging question of why certain texts were copied alongside one another: how, for instance, does our understanding of (say) a text on French orthography change if it’s followed by group of sample letters, as opposed to introducing legal documents? Luca’s project — the wonderfully-named [MERMAID](https://mermaid.unimi.it) (MEdieval Romance Manuscripts As Instructional Devices) — had been grappling with similar questions, and he wondered whether we might be interested in presenting at their closing conference. Never ones to turn down a trip to Italy, we jumped at the chance, excited to meet colleagues whose perspectives might enrich our own, and to return the favour.
+
+The conference itself lasted for two days, with around fifteen presentations in total; some speakers were established members of the project, while others (such as ourselves) had been invited specifically because our work elsewhere complemented its aims, either through methodology or through material. Tom spoke about the core focus of LAF — the manuscript evidence for the teaching and learning of French in later medieval Britain — while I picked up a strand of work that I’d recently revisited, talking about which texts travelled alongside translations into French of the *Distichs* of Cato. The vast majority of the speakers at the conference were Italian, and Italian was very much the dominant language, meaning that those of us who were speaking in English had to keep our presentations laser-focused, taking care to provide plentiful ‘hooks’ to re-engage any listeners whom we’d accidentally lost.
+
+![IMAGE](/assets/images/blogposts/2026-02-09-milan-postcard/1-interior.jpeg)
+*The impressive interior courtyard at the conference venue.*
+
+Conferences, of course, don’t really translate into visually gripping research postcards. The photos that emerge tend to be of the same conference room over and over, so I hope you’ll forgive me for adding visual interest to this post with some slightly self-indulgent tourist photos (courtesy of Tom, who had an extra day in Milan due to not doing the whole trip there and back exclusively by train). Nevertheless, there is a serious point to this post, beyond documenting the opportunity that we had to drink many espressos and talk about manuscripts. MERMAID was, simply put, a type of conference that I hadn’t experienced before: given the closely-related areas of expertise of everyone present there was no need to spend time explaining what my object of study (the Disticha Catonis) actually was, while the tight focus on the project’s objectives meant that everyone approached their presentations with a similar set of questions in mind.
+
+This complementarity, in turn, made the conversations *around* the presentations more productive than is often the case, allowing us to meet potential future collaborators rather than simply acknowledging similarities of approach between our work. Not every conference can do this, naturally, but it’s worth taking the time to think, when deciding on which conference(s) to attend, what you hope to get out of them, and to consider how to make the time spent at a conference worth the hours invested in preparing your paper.
+
+Whether or not — to give a purely hypothetical pastime — ‘getting to take photos of trams’ helps to balance that equation is, of course, an entirely subjective matter.
+
+![IMAGE](/assets/images/blogposts/2026-02-09-milan-postcard/2-tram.jpeg)
+*Milan has one of the most extensive tram networks in Europe. Remarkably, the oldest trams on the network still in service date from the late 1920s.*
