@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "A musical, medieval thank-you: on Yolanda Plumley's retirement"
+date:   2023-10-20 00:00:00 +0000
+categories: 
+---
+> *This post was originally published on the [Exeter Medieval Studies blog](https://sites.exeter.ac.uk/medievalstudies/2023/10/20/a-musical-medieval-thank-you-on-yolanda-plumleys-retirement/).*
+
+It’s the third week of term here in Exeter, and there’s a palpable sense in the air of things ‘settling down’ for the autumn. The first lectures of term have been delivered, the traditional Centre for Medieval Studies ‘welcome seminar’ has taken place, and at all levels of study and research, the cogs of Exeter’s medievalist machine are turning once again.
+
+There is one notable absence, though, and it’s one that while well-deserved, will be no less keenly felt across the Centre. Yolanda Plumley, one of the longest-standing members of the Centre and stalwart of the Exeter medievalist scene, took much-merited retirement at the end of the summer, after several decades of dedicated service to the University and its students. While Yolanda will still be present around the university, and undertaking her own research, it seems appropriate, on the occasion of her retirement, to take a moment to congratulate and thank her for her outstanding work. 
+
+In recent years, Yolanda has been best-known in Exeter for her work in our very own Centre for Medieval Studies, which she directed from 2005. Sarah Hamilton, Professor of Medieval History and long-time friend of Yolanda’s, notes:
+
+> [Yolanda was] personally responsible for obtaining substantial funding for its seminar programme at a crucial point in its early years, allowing us to set up the diet of internal and external speakers which had continued ever since and made it one of the most successful and truly interdisciplinary centres in HASS. 
+
+Yolanda’s connection to Exeter, however, stretches far further back, beginning in 1981 when she arrived to study for a degree in Music. She completed her PhD (also from Exeter) in 1991, which was published shortly afterwards as *The Grammar of Fourteenth-Century Melody: Tonal Organization and Compositional Process in the Chansons of Guillaume de Machaut and the Ars Subtilior*. During several subsequent years spent in France, Yolanda was involved in a remarkable range of activities that typify her energy and enthusiasm: while completing her PhD, she worked as an interpreter and taught piano, both of which also presaged her later work across music and modern languages.
+
+Returning to Exeter shortly afterwards, initially on a temporary lectureship, Yolanda also spent a number of years working at University College Cork before taking up the post of Director of Exeter’s Centre for Medieval Studies. During her almost two decades in senior roles in medieval studies at Exeter, Yolanda brought to life a topic that might otherwise seem inaccessible and distant to undergraduates — the music and court culture of the later Middle Ages — and engaged students both with and without prior musical knowledge. As Catherine Rider, Associate Professor in Medieval History, puts it, she ‘took them through it gently and showed them how to listen’.
+
+Yolanda’s appointment spanned Departments and encouraged collaboration in a way that the rest of the University is only now beginning to fully appreciate. Thomas Hinton, Associate Professor of French Language and Literature, is particularly appreciative of her contribution to Modern Languages:
+
+> Yolanda was a supportive and friendly presence from the moment I arrived at the university as a wet-behind-the-ears lecturer in 2013. I had the great pleasure of getting to know her properly the following year, on a shared research trip to a workshop on troubadour lyric in Girona, and since then our regular chats about matters both medieval and institutional have been a welcome fixture.’
+
+In recent years, Yolanda has also remained at the forefront of her discipline — historical musicology — through a string of successes in the research sphere. Her AHRC- and Leverhulme Trust-funded research has led to the publication of several groundbreaking volumes, among them *The Art of Grafted Song: Citation and Allusion in the Age of Machaut* and the co-edited *Citation, Intertextuality and Memory in the Middle Ages and Renaissance* (2011 and 2013). Several of Yolanda’s projects incorporated a significant digital element, with searchable digital archives that will likely serve as cornerstones of research in the coming years, and further catalogues, inventories and editions in the offing. Her most recent publication – which she modestly describes as a ‘connect-the-dots’ exercise — identifies further exciting loci of reception for the work of the the 14th-century poet and musician Guillaume de Machaut.
+
+One blog post alone, of course, cannot do justice to Yolanda’s work, in Exeter and beyond. Ironically, Machaut himself expressed similar sentiments, albeit 600 years in advance, and in a different context: *‘Biaus amis, je t’en conteroie / Jusqu’a demain se je voloie’* [‘Good friend, I could go on relating such things / Until the dawn if I wished’]. Indeed we could, and certainly all those who have worked with Yolanda over the years — from PhD students such as Uri Smilansky and Tamsyn Mahoney-Steel to current colleagues, via the many undergraduates who explored medieval music with her — will wish her the very best going forward, and look forward to her continuing contributions to medieval studies at Exeter and beyond.
+
+From all of your colleagues and friends at Exeter: *Cent mille fois vous merci !*
