@@ -6,13 +6,13 @@ categories:
 ---
 > *This post was originally published on the [Exeter Medieval Studies blog](https://sites.exeter.ac.uk/medievalstudies/2023/12/15/seasons-greetings-from-the-medieval-french-reading-group/).*
 
-The Centre for Medieval Studies here at Exeter plays host to a number of [reading groups](https://www.exeter.ac.uk/research/centres/medieval/newsandevents/). One of these, the Medieval French Reading Group, recently celebrated the end of term with a special session in which we explored a Christmas song from 13th-century England. The text itself (no. 148 in Ruth Dean and Maureen Boulton’s *Anglo-Norman Literature: A Guide to Texts and Manuscripts*) is recognisably Anglo-French, with numerous features that mark it out as different from the slowly-emerging continental standard, and in the spirit of the season, we’ve decided to share it with the readers of this blog.
+The Centre for Medieval Studies here at Exeter plays host to a number of [reading groups](https://www.exeter.ac.uk/research/centres/medieval/newsandevents/). One of these, the Medieval French Reading Group, recently celebrated the end of term with a special session in which we explored a Christmas song from 13th-century England. The text itself (no. 148 in Ruth Dean and Maureen Boulton's *Anglo-Norman Literature: A Guide to Texts and Manuscripts*) is recognisably Anglo-French, with numerous features that mark it out as different from the slowly-emerging continental standard, and in the spirit of the season, we've decided to share it with the readers of this blog.
 
-One thing we can’t do, however, is provide a link back to the original manuscript containing the text, housed at the British Library: MS Royal 16 E VIII. This is due not to the recent cyberattack — in response to which we’d like to express our heartfelt thanks to our colleagues and collaborators at the BL as they work to restore services — but instead to the unusual provenance of that particular volume. Specifically, it has been unaccounted for since 7th June 1879, a loss which has been attributed variously to accident, personal greed, and philologically-inflected nationalism. For more on this intriguing history, see the recent publication by [Carla Rossi](https://www.persee.fr/doc/roma_0035-8029_2008_num_126_501_1431).
+One thing we can't do, however, is provide a link back to the original manuscript containing the text, housed at the British Library: MS Royal 16 E VIII. This is due not to the recent cyberattack - in response to which we'd like to express our heartfelt thanks to our colleagues and collaborators at the BL as they work to restore services - but instead to the unusual provenance of that particular volume. Specifically, it has been unaccounted for since 7th June 1879, a loss which has been attributed variously to accident, personal greed, and philologically-inflected nationalism. For more on this intriguing history, see the recent publication by [Carla Rossi](https://www.persee.fr/doc/roma_0035-8029_2008_num_126_501_1431).
 
-Fortunately for our purposes, the manuscript had received its fair share of attention from scholars prior to this point, and several editions of our piece had already appeared by 1879. They were followed by more still in subsequent years, including that of [Jeanroy and Långfors](https://archive.org/details/chansonssatiriq00jean/page/80/mode/2up) in 1921 from which our text is taken. Translations, by contrast, have been less frequent, and have tended towards the poetic, often to the detriment of anyone looking to understand the sometimes-challenging vocabulary of the original text. In putting together this tentative translation, we have necessarily found ourselves taking difficult decisions, and warmly welcome readers of the blog to add their own comments and suggestions.
+Fortunately for our purposes, the manuscript had received its fair share of attention from scholars prior to this point, and several editions of our piece had already appeared by 1879. They were followed by more still in subsequent years, including that of [Jeanroy and L√•ngfors](https://archive.org/details/chansonssatiriq00jean/page/80/mode/2up) in 1921 from which our text is taken. Translations, by contrast, have been less frequent, and have tended towards the poetic, often to the detriment of anyone looking to understand the sometimes-challenging vocabulary of the original text. In putting together this tentative translation, we have necessarily found ourselves taking difficult decisions, and warmly welcome readers of the blog to add their own comments and suggestions.
 
-If you’re based in or around Exeter and are interested in joining the Medieval French Reading Group from January, you’re warmly invited to contact the convenors (Tom Hinton and Edward Mills) via email. For more information, see the page linked above.
+If you're based in or around Exeter and are interested in joining the Medieval French Reading Group from January, you're warmly invited to contact the convenors (Tom Hinton and Edward Mills) via email. For more information, see the page linked above.
 
 On behalf of the group, merry Christmas and a happy New Year!
 
@@ -22,34 +22,34 @@ On behalf of the group, merry Christmas and a happy New Year!
 
 Seignors, or entendez a nus :
 De loing sumes venuz a vous
-Quere Noël,
-Car l’em nus dit que en cest hoste
+Quere No√´l,
+Car l'em nus dit que en cest hoste
 Soleit tenir sa feste anvel
 A hicest jur.
-**Deus doint a tuz cels joie d’amurs**
-**Qui a danz Noël ferunt honors !**
+**Deus doint a tuz cels joie d'amurs**
+**Qui a danz No√´l ferunt honors !**
 
 > Lords, hear us now: we have come to you from afar on search of Christmas; for we have heard that in this household, its yearly feast has typically been held on this day. **May God give the joy of love to all those who will honour Lord Christmas!**
 
 Seignors, je vus di ben por veir
-Que danz Noël ne velt aveir
+Que danz No√´l ne velt aveir
 Si joie non,
 E replenie sa maison
 De pain, de char e de peison
 Por faire henor.
-**Deus doint a tuz cels joie d’amurs**
-**Qui a danz Noël ferunt honors !**
+**Deus doint a tuz cels joie d'amurs**
+**Qui a danz No√´l ferunt honors !**
 
 > Lords, truly I say to you well that Lord Christmas wants nothing if not joy, and he fills his house with bread, meat and fish to honour Lord Christmas. **May God give the joy of love to all those who will honour Lord Christmas!**
 
-Seignors, il est crié en l’ost
+Seignors, il est cri√© en l'ost
 Que cil qui despent bien e tost
 E largement
 E fet les granz henors sovent,
 Deu li duble quanque il despent,
 Por faire henor.
-**Deus doint a tuz cels joie d’amurs**
-**Qui a danz Noël ferunt honors !**
+**Deus doint a tuz cels joie d'amurs**
+**Qui a danz No√´l ferunt honors !**
 
 > Lords, it is said among the people that he who spends richly and generously, and who greatly and generously honours others, sees God double whatever he spends to honour (Lord Christmas). **May God give the joy of love to all those who will honour Lord Christmas!**
 
@@ -59,27 +59,27 @@ De bone part.
 Botun, batun, ferun gruinard,
 Car tot dis a le quer cuuard
 Por feire henor.
-**Deus doint a tuz cels joie d’amurs**
-**Qui a danz Noël ferunt honors !**
+**Deus doint a tuz cels joie d'amurs**
+**Qui a danz No√´l ferunt honors !**
 
 > Lords, denounce evil, for you will never find it in (these) good parts. (With) branches, sticks, let us strike the grinch who always has too miserly a heart to honour (Lord Christmas). **May God give the joy of love to all those who will honour Lord Christmas!**
 
-Noël beit bien le vin engleis
+No√´l beit bien le vin engleis
 E le gascoin e le franceys
-E l’angevin ;
-Noël fait beivere son veisin,
-Si qu’il se dort le chief enclin
+E l'angevin ;
+No√´l fait beivere son veisin,
+Si qu'il se dort le chief enclin
 Sovent le jor.
-**Deus doint a tuz cels joie d’amurs**
-**Qui a danz Noël ferunt honors !**
+**Deus doint a tuz cels joie d'amurs**
+**Qui a danz No√´l ferunt honors !**
 
 > At Christmas wine is drunk, whether English, Gascon, French or Angevin; Christmas makes one's neighbour drink so that he sleeps, his head drooping all through the day. **May God give the joy of love to all those who will honour Lord Christmas!**
 
-Seignors, je vus di par Noël
+Seignors, je vus di par No√´l
 E le sire de cest hostel :
 Car bevez ben !
 E jo primes beverai le men,
-E pois après chescon le soen,
+E pois apr√©s chescon le soen,
 Par mon conseil :
 Si je vus di a trestoz : *Wesseil!*
 Dehaiz eit qui ne dira : *Drincheyl!*
