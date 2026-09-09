@@ -18,7 +18,7 @@ On behalf of the group, merry Christmas and a happy New Year!
 
 ### 'Seignors, or entendez a nus' (London, British Library, MS Royal 16 E VIII, fol. 130)
 
-*Translated by Lucy Berridge, Peter Cramer, Tom Hinton, Edward Mills, Philippa Johnson, and Susan Tranfield**
+*Translated by Lucy Berridge, Peter Cramer, Tom Hinton, Edward Mills, Philippa Johnson, and Susan Tranfield*
 
 Seignors, or entendez a nus :
 De loing sumes venuz a vous
