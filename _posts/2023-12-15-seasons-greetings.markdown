@@ -20,68 +20,68 @@ On behalf of the group, merry Christmas and a happy New Year!
 
 *Translated by Lucy Berridge, Peter Cramer, Tom Hinton, Edward Mills, Philippa Johnson, and Susan Tranfield*
 
-Seignors, or entendez a nus :
-De loing sumes venuz a vous
-Quere Noël,
-Car l'em nus dit que en cest hoste
-Soleit tenir sa feste anvel
-A hicest jur.
-**Deus doint a tuz cels joie d'amurs**
-**Qui a danz Noël ferunt honors !**
+Seignors, or entendez a nus :  
+De loing sumes venuz a vous  
+Quere Noël,  
+Car l'em nus dit que en cest hoste  
+Soleit tenir sa feste anvel  
+A hicest jur.  
+**Deus doint a tuz cels joie d'amurs**  
+**Qui a danz Noël ferunt honors !**  
 
 > Lords, hear us now: we have come to you from afar on search of Christmas; for we have heard that in this household, its yearly feast has typically been held on this day. **May God give the joy of love to all those who will honour Lord Christmas!**
 
-Seignors, je vus di ben por veir
-Que danz Noël ne velt aveir
-Si joie non,
-E replenie sa maison
-De pain, de char e de peison
-Por faire henor.
-**Deus doint a tuz cels joie d'amurs**
-**Qui a danz Noël ferunt honors !**
+Seignors, je vus di ben por veir  
+Que danz Noël ne velt aveir  
+Si joie non,  
+E replenie sa maison  
+De pain, de char e de peison  
+Por faire henor.  
+**Deus doint a tuz cels joie d'amurs**  
+**Qui a danz Noël ferunt honors !**  
 
 > Lords, truly I say to you well that Lord Christmas wants nothing if not joy, and he fills his house with bread, meat and fish to honour Lord Christmas. **May God give the joy of love to all those who will honour Lord Christmas!**
 
-Seignors, il est crié en l'ost
-Que cil qui despent bien e tost
-E largement
-E fet les granz henors sovent,
-Deu li duble quanque il despent,
-Por faire henor.
-**Deus doint a tuz cels joie d'amurs**
-**Qui a danz Noël ferunt honors !**
+Seignors, il est crié en l'ost  
+Que cil qui despent bien e tost  
+E largement  
+E fet les granz henors sovent,  
+Deu li duble quanque il despent,  
+Por faire henor.  
+**Deus doint a tuz cels joie d'amurs**  
+**Qui a danz Noël ferunt honors !**  
 
 > Lords, it is said among the people that he who spends richly and generously, and who greatly and generously honours others, sees God double whatever he spends to honour (Lord Christmas). **May God give the joy of love to all those who will honour Lord Christmas!**
 
-Seignors, escriez le malveis,
-Car vus nel troverez jameis
-De bone part.
-Botun, batun, ferun gruinard,
-Car tot dis a le quer cuuard
-Por feire henor.
-**Deus doint a tuz cels joie d'amurs**
-**Qui a danz Noël ferunt honors !**
+Seignors, escriez le malveis,  
+Car vus nel troverez jameis  
+De bone part.  
+Botun, batun, ferun gruinard,  
+Car tot dis a le quer cuuard  
+Por feire henor.  
+**Deus doint a tuz cels joie d'amurs**  
+**Qui a danz Noël ferunt honors !**  
 
 > Lords, denounce evil, for you will never find it in (these) good parts. (With) branches, sticks, let us strike the grinch who always has too miserly a heart to honour (Lord Christmas). **May God give the joy of love to all those who will honour Lord Christmas!**
 
-Noël beit bien le vin engleis
-E le gascoin e le franceys
-E l'angevin ;
-Noël fait beivere son veisin,
-Si qu'il se dort le chief enclin
-Sovent le jor.
-**Deus doint a tuz cels joie d'amurs**
-**Qui a danz Noël ferunt honors !**
+Noël beit bien le vin engleis  
+E le gascoin e le franceys  
+E l'angevin ;  
+Noël fait beivere son veisin,  
+Si qu'il se dort le chief enclin  
+Sovent le jor.  
+**Deus doint a tuz cels joie d'amurs**  
+**Qui a danz Noël ferunt honors !**  
 
 > At Christmas wine is drunk, whether English, Gascon, French or Angevin; Christmas makes one's neighbour drink so that he sleeps, his head drooping all through the day. **May God give the joy of love to all those who will honour Lord Christmas!**
 
-Seignors, je vus di par Noël
-E le sire de cest hostel :
-Car bevez ben !
-E jo primes beverai le men,
-E pois aprés chescon le soen,
-Par mon conseil :
-Si je vus di a trestoz : *Wesseil!*
-Dehaiz eit qui ne dira : *Drincheyl!*
+Seignors, je vus di par Noël  
+E le sire de cest hostel :  
+Car bevez ben !  
+E jo primes beverai le men,  
+E pois aprés chescon le soen,  
+Par mon conseil :  
+Si je vus di a trestoz : *Wesseil!*  
+Dehaiz eit qui ne dira : *Drincheyl!*  
 
 > Lords, I say to you in the name of Christmas and the lord of this household: drink up, drink well! I first will drink my fill, and then let everyone drink their fill, as I say. First, I will say to all, 'Wassail!', and a pox on him who does not reply, 'Drinkhail!'

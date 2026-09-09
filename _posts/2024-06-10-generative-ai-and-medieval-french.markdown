@@ -12,18 +12,18 @@ Journalists have experimented (with mixed results) with asking AI to write a [ne
 
 #### Prompt 1: Generate 10 lines of medieval French poetry.
 
-Sous l'ombre douce d'un chêne ancien,
-Chevaliers vaillants veillent sans fin,
-Leurs épées d'argent brillent au clair matin,
-Et leurs cœurs ardents ne craignent point le venin.
-
-La belle dame aux yeux d'émeraude,
-Sa voix charmeuse comme l'eau qui rôde,
-Chante aux 'toiles de minuit la ballade,
-Des amours perdus et des nobles croisades.
-
-Aux murs épais du château haut perché,
-Le vent murmure les secrets oubliés.
+Sous l'ombre douce d'un chêne ancien,  
+Chevaliers vaillants veillent sans fin,  
+Leurs épées d'argent brillent au clair matin,  
+Et leurs cœurs ardents ne craignent point le venin.  
+  
+La belle dame aux yeux d'émeraude,  
+Sa voix charmeuse comme l'eau qui rôde,  
+Chante aux 'toiles de minuit la ballade,  
+Des amours perdus et des nobles croisades.  
+  
+Aux murs épais du château haut perché,  
+Le vent murmure les secrets oubliés.  
 
 > Under the sweet shade of an ancient oak / Brave knights watch without end; / Their silver swords shine in the morning light, / And their fervent hearts fear no poison. / The beautiful dame, with emerald eyes / And a voice charming as the flowing waters / Sings a ballad to the midnight stars / Of lost loves and the noble Crusades. / Perched high on the thick castle walls, / The wind whispers forgotten secrets.
 
@@ -33,15 +33,15 @@ The output is furthest from being 'medieval', however, in its language. While th
 
 #### Prompt 2: Continue the following four lines of poetry in the same style.
 
-Qui Deus a duné escïence
-e de parler bone eloquence,
-ne s'en deit taisir ne celer
-mes beles rimes deit reveler.
-
-La lune brille sur la mer paisible,
-Les chevaliers chevauchent infatigables,
-Vers l'aventure et le destin glorieux,
-Portant l'honneur de leurs aïeux.
+Qui Deus a duné escïence  
+e de parler bone eloquence,  
+ne s'en deit taisir ne celer  
+mes beles rimes deit reveler.  
+  
+La lune brille sur la mer paisible,  
+Les chevaliers chevauchent infatigables,  
+Vers l'aventure et le destin glorieux,  
+Portant l'honneur de leurs aïeux.  
 
 > Whoever God has given understanding / And eloquence in speaking / Should not keep quiet about it, or hide away, / But should showcase beautiful rhymes. / The moon shines upon the placid sea / (And) the indefatigable knights ride on / Towards adventure and (their) glorious destiny, / Carrying the honour of their ancestors.
 
@@ -52,24 +52,24 @@ The next stanza, though, is where things fall apart. We're back to banalities an
 #### Prompt 3: Here are the first five lines of a medieval French piece of drama, the 'Jeu de Saint Nicolas', written in Arras at the start of the 13th century. Continue it for 10 lines in the same style, making sure that you write it in authentic medieval French.
 
 LI PREECIERES
-Oi'es, oi'es, seigneur et dames,
-Que Diex vous soit garant as ames!
-De vostre preu ne vous annuit;
-Nous volumes parler anuit
-De saint Nicolai, le confés,
-Qui maint prodige a fait et fait.
-
-Un jour, en mer, un marinier,
-Par grand torment fut naufragier.
-Cria ' Dieu, en désespoir,
-Saint Nicolai, prent de nous soing!
-Par la vertu du saint sacré
-Le marinier fut délivré.
-
-En son église, par humilité,
-Rendit merci et charité.
-Seigneur et dames, priez ainsi,
-Que saint Nicolai vous soit ami.
+Oi'es, oi'es, seigneur et dames,  
+Que Diex vous soit garant as ames!  
+De vostre preu ne vous annuit;  
+Nous volumes parler anuit  
+De saint Nicolai, le confés,  
+Qui maint prodige a fait et fait.  
+  
+Un jour, en mer, un marinier,  
+Par grand torment fut naufragier.  
+Cria ' Dieu, en désespoir,  
+Saint Nicolai, prent de nous soing!  
+Par la vertu du saint sacré  
+Le marinier fut délivré.  
+  
+En son église, par humilité,  
+Rendit merci et charité.  
+Seigneur et dames, priez ainsi,  
+Que saint Nicolai vous soit ami.  
 
 > THE PREACHER: Listen, listen, lords and ladies, / That God might protect your souls! / Do not forget your good fortune. / Tonight we want to speak / Of Saint Nicholas, the confessor, / Who did and does many great thing(s). / One day, a sailor at sea / Was shipwreck[ed] by a great storm. / He cried out to God in desperation, / 'Saint Nicholas, take care of us!' / Through the virtue of the holy saint / The sailor was saved. / In his church, (and) with humility, / He gave thanks and alms. / Lords and ladies, pray in this way / So that Saint Nicholas might be your friend.
 
