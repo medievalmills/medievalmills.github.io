@@ -5,7 +5,7 @@ permalink: /research/
 order: 1
 ---
 
-![IMAGE](/assets/images/femina.png)
+![An image from the 15th-century 'Femina' manuscript.](/assets/images/femina.png)
 
 > *For a list of my publications, please see my [institutional profile page](https://experts.exeter.ac.uk/28359-edward-mills).*
 

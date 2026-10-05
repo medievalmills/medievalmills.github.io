@@ -7,9 +7,9 @@ order: 2
 
 ![IMAGE](/assets/images/teaching.jpeg) 
 
-I have extensive teaching experience across all levels in Higher Education, and was awarded Fellowship of the Higher Education Academy in 2021. I continue to mentor and assess applicants for Fellowship through the University of Exeter's [ASPIRE Professional Recognition Pathway](https://www.exeter.ac.uk/staff/professional-development/educators/recognising/aspire/).
+I have extensive teaching experience across all levels in Higher Education, and was awarded Fellowship of the Higher Education Academy in 2021. I've been a Lecturer in Medieval Studies, based in Exeter's Department of Archaeology and History, as well as (more recently) a Lecturer in French, in Languages, Cultures and Visual Studies. I continue to mentor and assess applicants for Fellowship through the University of Exeter's [ASPIRE Professional Recognition Pathway](https://www.exeter.ac.uk/staff/professional-development/educators/recognising/aspire/).
 
-Below is an overview of my teaching experience in Higher Education.
+Here's a (very brief) overview of some of the areas in which I've taught.
 
 ### Medieval French
 Between 2020 and 2026, I designed and delivered an **introduction to medieval French** through the CHASE Doctoral Training Partnership. The course (which I continued to refine over six cohorts) gave Master's and PhD students a space to gain confidence, experience, and knowledge with the language, and culminated in students delivering their own sessions based on their in-progress research.
